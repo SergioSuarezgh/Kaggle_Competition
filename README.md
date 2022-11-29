@@ -4,15 +4,15 @@
 
 ## 📁ESTRUCTURA
 
--  DATA/                         # contiene los csv  
+-  DATA/     &emsp;&emsp;                    # contiene los csv  
 
--  IMG/                          # contiene imagénes referentes al proyecto 
+-  IMG/     &emsp;&emsp;                     # contiene imagénes referentes al proyecto 
 
--  SRC/                          # contiene el proceso de limpiea del csv
+-  SRC/     &emsp;&emsp;                     # contiene el proceso de limpiea del csv
  
--  PPTS/                         # para cargar las presentaciones
+-  PPTS/      &emsp;&emsp;                   # para cargar las presentaciones
 
--  .gitignore                    # archivo para ignorar documentos    
+-  .gitignore    &emsp;&emsp;                # archivo para ignorar documentos    
 
 -  README.md  
 
