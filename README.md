@@ -37,7 +37,7 @@
 - Crear repo propio del proyecto (issue)
 
 
+#### 💁🏻‍♀️💁🏻  ORI Y ADRI LES DESEAMOS HAPPY MACHINE LEARNING WEEK
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ORI Y ADRI LES DESEAMOS HAPPY MACHINE LEARNING WEEK
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">
+<img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">
 
