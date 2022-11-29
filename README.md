@@ -1,1 +1,1 @@
-# Compretition_Kaggle
+# Competition_Kaggle
