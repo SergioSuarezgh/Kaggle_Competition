@@ -8,17 +8,17 @@
 
 ## 📁ESTRUCTURA
 
-- |__ DATA/                         # contiene los csv  
+-  DATA/                         # contiene los csv  
 
-- |__ IMG/                          # contiene imagénes referentes al proyecto 
+-  IMG/                          # contiene imagénes referentes al proyecto 
 
-- |__ SRC/                          # contiene el proceso de limpiea del csv
+-  SRC/                          # contiene el proceso de limpiea del csv
  
-- |__ PPTS/                         # para cargar las presentaciones
+-  PPTS/                         # para cargar las presentaciones
 
-- |__ .gitignore                    # archivo para ignorar documentos    
+-  .gitignore                    # archivo para ignorar documentos    
 
-- |__ README.md  
+-  README.md  
 
 
 
@@ -35,4 +35,9 @@
 - Subir los resultados con el mejor modelo entrenado de Machine Learning
 - Hacer pull request con la presentación en la carpeta de 'PPTS' 
 - Crear repo propio del proyecto (issue)
-- Divertirse codeando 😄
+
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ORI Y ADRI LES DESEAMOS HAPPY MACHINE LEARNING WEEK
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">
+
