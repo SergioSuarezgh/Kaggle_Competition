@@ -9,29 +9,30 @@
 ## 📁ESTRUCTURA
 
 - |__ DATA/                         # contiene los csv  
-- |
+
 - |__ IMG/                          # contiene imagénes referentes al proyecto 
-- |
+
 - |__ SRC/                          # contiene el proceso de limpiea del csv
-- | 
+ 
 - |__ PPTS/                         # para cargar las presentaciones
-- |
+
 - |__ .gitignore                    # archivo para ignorar documentos    
-- |
+
 - |__ README.md  
 
 
 
 ## 📚RECURSOS
 
-- Salaries Data csv
-- Testeo cvs
-- Muestra csv (Ejemplo de resultados que ellos deben subir a Kaggle)
+- Salaries_data.csv
+- Muestra.csv (Ejemplo de resultados que deben subir a Kaggle)
 
 
 ## 📈OBJECTIVO
 
-- Entrenar y Testear algunos modelos de Machine Learning
-- Subir los resultados con el mejor medo entrenado de Machine Learning
-- Hacer pull request con la presentación en la carpeta de 'PPTS'
+- Preparar los datos para los diversos modelos (proceso empírico) 
+- Entrenar y Testear modelos de Machine Learning
+- Subir los resultados con el mejor modelo entrenado de Machine Learning
+- Hacer pull request con la presentación en la carpeta de 'PPTS' 
+- Crear repo propio del proyecto (issue)
 - Divertirse codeando 😄
