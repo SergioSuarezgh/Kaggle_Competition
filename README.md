@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 
-#### Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/)
+&emsp;&emsp;&emsp;&emsp;&emsp; <b> Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/) </b>
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="500" height="250">
