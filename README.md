@@ -2,6 +2,8 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="700" height="350">
 
+https://www.kaggle.com/competitions/predict-the-salary-for-data-jobs/data
+
 ## 📁ESTRUCTURA
 
 -  DATA/     &emsp;&emsp;                    # contiene los csv  
