@@ -20,7 +20,8 @@
 
 ## 📚RECURSOS
 
-- Salaries_data.csv
+- Salaries_data.csv (Datos para trabajar)
+- Testeo.csv (Datos para predecir)
 - Muestra.csv (Ejemplo de resultados que deben subir a Kaggle)
 
 
