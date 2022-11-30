@@ -1,22 +1,20 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
+# Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/)
 
-&emsp;&emsp;&emsp;&emsp;&emsp; <b> Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/) </b>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="700" height="350">
 
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="500" height="250">
-
+https://www.kaggle.com/competitions/predict-the-salary-for-data-jobs/data
 
 ## 📁ESTRUCTURA
 
--  DATA/                         # contiene los csv  
+-  DATA/     &emsp;&emsp;                    # contiene los csv  
 
--  IMG/                          # contiene imagénes referentes al proyecto 
+-  IMG/     &emsp;&emsp;                     # contiene imagénes referentes al proyecto 
 
--  SRC/                          # contiene el proceso de limpiea del csv
+-  SRC/     &emsp;&emsp;                     # contiene el proceso de limpiea del csv
  
--  PPTS/                         # para cargar las presentaciones
+-  PPTS/      &emsp;&emsp;                   # para cargar las presentaciones
 
--  .gitignore                    # archivo para ignorar documentos    
+-  .gitignore    &emsp;&emsp;                # archivo para ignorar documentos    
 
 -  README.md  
 
@@ -36,8 +34,9 @@
 - Hacer pull request con la presentación en la carpeta de 'PPTS' 
 - Crear repo propio del proyecto (issue)
 
+<br />
 
+#### 💁🏻‍♀️💁🏻  ORI Y ADRI LES DESEAMOS HAPPY MACHINE LEARNING WEEK
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ORI Y ADRI LES DESEAMOS HAPPY MACHINE LEARNING WEEK
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">
+<img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">
 
