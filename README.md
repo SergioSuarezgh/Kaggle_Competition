@@ -2,15 +2,13 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="700" height="350">
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [A JUGAR!!!](https://www.kaggle.com/competitions/predecir-salario-data)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [A JUGAR!!!](https://www.kaggle.com/competitions/predecir-salario-data)
 
 ## 📁ESTRUCTURA
 
 -  DATA/     &emsp;&emsp;                    # contiene los csv  
 
 -  IMG/     &emsp;&emsp;                     # contiene imagénes referentes al proyecto 
-
--  SRC/     &emsp;&emsp;                     # contiene el proceso de limpiea del csv
  
 -  PPTS/      &emsp;&emsp;                   # para cargar las presentaciones
 
