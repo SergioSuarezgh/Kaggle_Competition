@@ -1,8 +1,8 @@
-# Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/)
+### Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="700" height="350">
 
-https://www.kaggle.com/competitions/predict-the-salary-for-data-jobs/data
+[A JUGAR!!!](https://www.kaggle.com/competitions/predecir-salario-data)
 
 ## 📁ESTRUCTURA
 
