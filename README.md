@@ -111,7 +111,7 @@
 ![Alt text](img/giphy.gif)
 
 
--Solamente ha mejorado el modelo un poco usando un GridSearch para buscar los mejores hiperparámetros aunque en mi mse eso no se reflejará pero una vez subido si había una ligera mejora
+-Solamente ha mejorado el modelo un poco usando un GridSearch para buscar los mejores hiperparámetros aunque en mi caso eso no se reflejará pero una vez subido si había una ligera mejora
 
 ![Alt text](img/images.jpeg)
 
